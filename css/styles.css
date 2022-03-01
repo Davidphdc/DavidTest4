@@ -70,7 +70,7 @@ body {
     max-width: 100%;
   }
   .hero .content h1 {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .hero .content p {
@@ -80,6 +80,6 @@ body {
   }
   .hero .content img {
     display: block;
-    width: 200px;
+    width: 300px;
   }
 }
